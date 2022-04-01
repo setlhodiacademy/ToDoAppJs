@@ -1,0 +1,44 @@
+h1 {
+  font-size: 20px;
+  font-family: sans-serif;
+  color: #ff5400;
+}
+
+body {
+  font-size: 16px;
+  font-family: sans-serif;
+}
+
+th,
+td {
+  border-bottom: 1px solid #ddd;
+  padding: 6px;
+  text-align: left;
+}
+
+button {
+  padding: 4px;
+  background: green;
+  color: white;
+  width: 100px;
+  height: 40px;
+  border-radius: 13px;
+  border: 1px solid;
+}
+
+label {
+  font-weight: 600;
+  color: #615c5b;
+}
+
+.control-container {
+  margin-bottom: 20px;
+}
+
+input,
+select {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 6px;
+  font-size: 16px;
+}
